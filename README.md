@@ -4,11 +4,11 @@
 
 Olá a todos este plugin está sendo feito para comunidade
 no entanto preciso que vocês encontrem bugs no plugin!
-
-Download:
+`<addr>`
+Download:`<addr>`
 https://github.com/FilipeNock/Skywars-BETA/releases
 
-Para reportar Bugs ou Sugestões Acesse: (É Preciso criar uma conta)
+Para reportar Bugs ou Sugestões Acesse: (É Preciso criar uma conta)`<addr>`
 https://github.com/FilipeNock/Skywars-BETA/issues
 
 Qualquer comentario Inapropriado será relativamente ignorado!
