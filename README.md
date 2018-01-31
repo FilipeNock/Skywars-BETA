@@ -1,5 +1,5 @@
-      ##Skywars-BETA##
-    Skywars da Comunidade
+ # Skywars-BETA##
+ # Skywars da Comunidade
     
 Olá a todos este plugin está sendo feito para comunidade
 no entanto preciso que vocês encontrem bugs no plugin!
