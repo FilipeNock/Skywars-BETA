@@ -5,7 +5,9 @@
 Olá a todos este plugin está sendo feito para comunidade
 no entanto preciso que vocês encontrem bugs no plugin!
 <br/>
+<br/>
 Versão Testada: 1.8.8 (Outras versões serao adicionadas) 
+<br/>
 <br/>
 Download:<br/>
 https://github.com/FilipeNock/Skywars-BETA/releases
