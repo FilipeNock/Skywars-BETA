@@ -17,4 +17,4 @@ https://github.com/FilipeNock/Skywars-BETA/issues
 Qualquer comentario Inapropriado será relativamente ignorado!
 <br/>
 <br/>
-<b style="color: #ff00ff">Agradeço desde já, a todos que irão colaborar!</b>
+<b style="color:#ff00ff;">Agradeço desde já, a todos que irão colaborar!</b>
