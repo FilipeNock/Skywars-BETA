@@ -1,6 +1,8 @@
  #           Skywars-BETA
  #       Skywars da Comunidade
 
+![](https://i.imgur.com/zmw4vJ5.png)
+
 Olá a todos este plugin está sendo feito para comunidade
 no entanto preciso que vocês encontrem bugs no plugin!
 
