@@ -5,12 +5,16 @@
 Olá a todos este plugin está sendo feito para comunidade
 no entanto preciso que vocês encontrem bugs no plugin!
 <br/>
+<br/>
 Download:<br/>
 https://github.com/FilipeNock/Skywars-BETA/releases
-
+<br/>
+<br/>
 Para reportar Bugs ou Sugestões Acesse:(É Preciso criar uma conta)<br/>
 https://github.com/FilipeNock/Skywars-BETA/issues
 <br/>
+<br/>
 Qualquer comentario Inapropriado será relativamente ignorado!
+<br/>
 <br/>
 Agradeço desde já, a todos que irão colaborar!
